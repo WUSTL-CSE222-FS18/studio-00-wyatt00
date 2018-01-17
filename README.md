@@ -29,7 +29,7 @@ Headings and sub-headings help separate the content of a document.
 
 Markdown is often used to document code.  Consequently, it supports embedding code within documents.
 
-***Q4. Create a code block below and include a Java `for`-loop that prints numbers from 0 to 10. Be sure to indicate that it's Java, which will cause Java keywords to be highlighted (`for` will be purple in the preview window; `int` will be orange, etc.):***
+***Q4. Create a code block below and include a Java `for`-loop that prints numbers from 0 to 10. Be sure to indicate that it's Java, which will cause Java keywords to be highlighted (for example, depending on your configuration `for` may be purple in the preview window; `int` may be orange, etc.):***
 
 ## Part 2: What is IoT
 
