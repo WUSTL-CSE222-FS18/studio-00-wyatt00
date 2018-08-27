@@ -48,4 +48,3 @@ Compare your previous work with other people in the class and try to come to a c
 ***Q7. Meet someone new.  Find a class member who you don't already know and introduce yourself.  Compare your work conclusions to the above IoT questions. Again, using a list indicate: 1) Who you worked with, and 2) Any discrepancies or interesting observations that arise from comparing your work:***
 
 ***Q8. Meet someone else new.  Find another class member who you don't already know and introduce your self.  Again compare your work as before:***
-# cse222s-sp18-studio0
